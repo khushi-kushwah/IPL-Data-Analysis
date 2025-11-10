@@ -34,5 +34,5 @@ Correlation analysis of factors affecting match results
 
 📁 File
 
- [IPL Data Analysis Project](./IPL_Data_Analysis_Project.ipynb) — contains all analysis, code, and visualizations.
+ [IPL Data Analysis Project](.[/IPL_Data_Analysis_Project.ipynb](https://github.com/khushi-kushwah/IPL-Data-Analysis/blob/main/IPL%20Data%20Analysis%20Project%20.ipynb)) — contains all analysis, code, and visualizations.
 
